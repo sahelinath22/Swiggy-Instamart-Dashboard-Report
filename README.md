@@ -83,7 +83,8 @@ These measures powered the dashboard’s KPIs and dynamic visuals, helping gener
 
 🖼️ **Dashboard Preview**
 
-🎥 **Interactive Dashboard Video**
+<img src="https://github.com/sahelinath22/Swiggy-Instamart-Dashboard-Report/blob/0ccc412f1814ca5c8efa5a95dac0eed85a7ee9bb/Swiggy%20Instamart%20Dashboard%20Report%20by%20SAHELI%20NATH.png" alt="Image Description" width="600">
+
 
 🚀 **How to Use**
 
